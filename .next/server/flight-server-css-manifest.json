@@ -1,0 +1,19 @@
+{
+  "cssImports": {
+    "/Users/stu/Projects/blog/jsblog/app/layout.jsx": [
+      "/Users/stu/Projects/blog/jsblog/app/globals.css"
+    ],
+    "/Users/stu/Projects/blog/jsblog/app/posts/[postId]/page.jsx": [
+      "/Users/stu/Projects/blog/jsblog/node_modules/highlight.js/styles/github-dark.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/stu/Projects/blog/jsblog/app/page": [
+      "/Users/stu/Projects/blog/jsblog/app/globals.css"
+    ],
+    "/Users/stu/Projects/blog/jsblog/app/posts/[postId]/page": [
+      "/Users/stu/Projects/blog/jsblog/node_modules/highlight.js/styles/github-dark.css",
+      "/Users/stu/Projects/blog/jsblog/app/globals.css"
+    ]
+  }
+}
